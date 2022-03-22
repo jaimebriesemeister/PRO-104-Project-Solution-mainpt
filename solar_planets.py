@@ -11,7 +11,7 @@ cv2.putText(img,
              )
 
 cv2.putText(img,
-            "Mercúrio",
+            "Mercurio",
              (110,180),
              cv2.FONT_HERSHEY_COMPLEX,
              0.5,
@@ -19,7 +19,7 @@ cv2.putText(img,
              )
 
 cv2.putText(img,
-            "Vênus",
+            "Venus",
              (190,270),
              cv2.FONT_HERSHEY_COMPLEX,
              0.5,
@@ -41,7 +41,7 @@ cv2.putText(img,
              (255,255,255)
              )
 cv2.putText(img,
-            "Júpiter",
+            "Jupiter",
              (500,90),
              cv2.FONT_HERSHEY_COMPLEX,
              0.5,
